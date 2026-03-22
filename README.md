@@ -45,7 +45,7 @@ Follow these steps to get your portfolio running in minutes.
 #   Start Development Server:
 
 npm run dev
-This starts a local server. Copy and paste the link shown (usually http://localhost:3000/) into your browser to edit in real-time.
+This starts a local server. Copy and paste the link shown (usually (http://localhost:5173)/) into your browser to edit in real-time.
 
 # 📂 Project Structure
 We've organized the code so you know exactly where to look.
@@ -64,17 +64,18 @@ To start customizing your site (changing the name, bio, projects, etc.), please 
 
 # 📦 Build for Production
 When you are ready to publish your site:
-
+```
 npm run build
-
+```
 This creates a dist/ folder with your optimized, production-ready site. Preview it locally with:
-bash
 
-npm run preview
+`npm run preview`
+
+Copy and paste the link shown (usually (http://localhost:4173)/) into your browser to preview the build.
 
 Deploy the dist/ folder to Vercel, Netlify, GitHub Pages, or any static host.
 
-❓ FAQ
+**❓ FAQ**
 - Q: Can I use this for a client project?
 
 A: No, not without a Commercial License. Personal use only under the default license. Buy a Commercial License here.
@@ -90,4 +91,4 @@ A: The template is type-safe and modular. If you only edit constants.ts, you can
 
 Thank you for using Flyzephy.
 Built for speed. Engineered for simplicity.
-© Flyzephy — Commercial License(https://flyzephy.gumroad.com/l/jeeut)
+© Flyzephy — **[Commercial License](https://flyzephy.gumroad.com/l/jeeut)**
