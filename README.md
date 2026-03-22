@@ -8,7 +8,7 @@
 
 A clean, modern personal brand portfolio built with **React**, **TailwindCSS**, and **Vite**. Engineered for designers, freelancers, and agencies who need a high-converting landing page without the bloat.
 
-
+Quick Preview: **[Personal-brand-portfolio/preview](https://personal-brand-portfolio.netlify.app)**
 ---
 
 ## ⚡ Features
