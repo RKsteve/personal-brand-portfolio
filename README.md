@@ -76,12 +76,16 @@ Deploy the dist/ folder to Vercel, Netlify, GitHub Pages, or any static host.
 
 ❓ FAQ
 - Q: Can I use this for a client project?
+
 A: No, not without a Commercial License. Personal use only under the default license. Buy a Commercial License here.
 - Q: Do I need to know React to use this?
+
 A: No. If you can edit a JavaScript object in constants.ts, you can use this template.
 - Q: Can I change the design/colors?
+
 A: Yes. All styling is handled via Tailwind classes. You can modify tailwind.config.js or edit classes directly in components if needed.
 - Q: What if I break something?
+
 A: The template is type-safe and modular. If you only edit constants.ts, you cannot break the build. For deeper changes, refer to the React/Vite docs.
 
 Thank you for using Flyzephy.
