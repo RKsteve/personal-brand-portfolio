@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories (The Big One!)
+node_modules/
+
+# Build output (The dist folder is generated code, not source code)
+dist/
+dist-ssr/
+
+# Environment Variables (Security risk)
+.env
+.env.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS Generated files
+.DS_Store
+Thumbs.db

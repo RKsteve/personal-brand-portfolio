@@ -1,0 +1,21 @@
+{
+  "name": "Alex Rivera — Conversion-Focused Personal Brand Designer",
+  "short_name": "Alex Rivera",
+  "description": "High-end, conversion-focused personal brand portfolio template for elite freelancers, founders, and creators.",
+  "lang": "en",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
